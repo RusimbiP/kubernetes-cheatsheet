@@ -1,7 +1,12 @@
 # Kubernetes cheat sheet 😉 
 
+ ## 🤫 Secrets
   **Creating secrets:**
   `kubectl create secret generic {name of the secret} --from-literal={key}={value}`
+  
+  **Getting secrets:**
+  `Kubectl get secrets`
+  
 ## 👉 Deleting commands
   **Deleting all podes:**
 
@@ -10,3 +15,5 @@
   **Deleting all deployments:**
 
   `kubectl delete --all deployments`
+  
+__Emojis from : https://emojipedia.org/__
