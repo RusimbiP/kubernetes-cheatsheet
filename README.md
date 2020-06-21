@@ -21,7 +21,7 @@
    **Getting Services inside Namespaces:**
   `kubectl get Services -n {name of the namespace}`
   
-## 👉 Deleting commands
+## Deleting commands
   **Deleting all podes:**
 
   `kubectl delete --all pods`
