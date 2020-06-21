@@ -11,7 +11,7 @@
    **Getting Namespaces:**
   `kubectl get namespace`
   
-   **Cross Namespace Service Communication**
+   **Cross Namespace Service Communication:**
    `http://NAMEOFSERVICE.NAMESPACE`
    
   ## Services
