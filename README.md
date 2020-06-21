@@ -5,7 +5,7 @@
   `kubectl create secret generic {name of the secret} --from-literal={key}={value}`
   
   **Getting secrets:**
-  `Kubectl get secrets`
+  `kubectl get secrets`
   
 ## 👉 Deleting commands
   **Deleting all podes:**
